@@ -1,8 +1,18 @@
-![image](https://user-images.githubusercontent.com/128328201/228947317-d7c83352-b688-4fcb-8f3b-2923fcfe31aa.png)
-![image](https://user-images.githubusercontent.com/128328201/228947459-7b4dd337-5f43-48ac-a9b9-9f0253b1f389.png)
-![image](https://user-images.githubusercontent.com/128328201/228947623-e483f877-68d2-45c9-83b5-0477778017af.png)
-![image](https://user-images.githubusercontent.com/128328201/228947663-5f11a364-9c36-440f-9d8c-e052951723dd.png)
-![image](https://user-images.githubusercontent.com/128328201/228947711-02e97b01-d10e-4c56-b571-462958412f4f.png)
+<img src="img/banner.png" width="100%" height="100%" />
+
+<div align="center">
+    <img src="https://img.shields.io/github/languages/top/addi00000/empyrean?color=%23000000">
+    <img src="https://img.shields.io/github/stars/addi00000/empyrean?color=%23000000&logoColor=%23000000">
+    <br>
+    <img src="https://img.shields.io/github/commit-activity/w/addi00000/empyrean?color=%23000000"> 
+    <img src="https://img.shields.io/github/last-commit/addi00000/empyrean?color=%23000000&logoColor=%23000000">
+    <br>
+    <img src="https://img.shields.io/github/issues/addi00000/empyrean?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/issues-closed/addi00000/empyrean?color=%23000000&logoColor=%23000000">
+    <br>
+    Due to constant Discord terminations I will not be making a new support server. For urgent contact: <a href="https://t.me/forrrrrrrrr">Telegram</a>
+</div>
+<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
 ## Features
 
@@ -52,13 +62,17 @@
 1. [Download source code zip](https://github.com/addi00000/empyrean/archive/refs/heads/main.zip)
 2. Extract zip
 3. Run `install_python.bat` if you don't have python installed
-4. Run the builder by double clicking the `build.exe` file
+4. Run the builder by double clicking the `build.bat` file
 5. Follow instructions in builder and your exe will be found in the `dist` folder under the name `main.exe`
-![image](https://user-images.githubusercontent.com/128328201/228947942-fb7d3c6e-e7f4-48d0-9013-8c018f48fd76.png)
-![image](https://user-images.githubusercontent.com/128328201/228948030-009e7dd1-c875-47ea-9409-b6341e8b477b.png)
-![image](https://user-images.githubusercontent.com/128328201/228948067-fc8ce2ee-1c36-4ae6-bf65-3f598f977515.png)
-![image](https://user-images.githubusercontent.com/128328201/228948092-8204f16d-0c8a-41ee-ab1d-0c9b5d755751.png)
-![image](https://user-images.githubusercontent.com/128328201/228948126-094688b1-a975-489f-8a7f-dcee351b98c0.png)
+
+<div align="center">
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/bu0.png"></img>
+    <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="75%">    
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/em0.png"></img>
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/em1.png"></img>
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/em2.png"></img>
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/em3.png"></img>
+</div>
 
 ## Contributing
 
@@ -73,4 +87,4 @@ Empyrean is licensed under the <a href="https://mit-license.org/">MIT License</a
 -   Make an [issue](https://github.com/addi00000/empyrean/issues)
 -   Join the [Discord](https://discord.gg/GudVbfd9ZU)
 
-![image](https://user-images.githubusercontent.com/128328201/228948275-fbc30917-2341-4f71-802e-3a6c3104a6cf.png)
+<img src="img/footer.png">
