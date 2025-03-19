@@ -1,6 +1,6 @@
 @echo off
 mode con: cols=100 lines=30
-title empyrean
+title Empyrean X
 color 0a
 cls
 
